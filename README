@@ -1,0 +1,4 @@
+This is the SWT-based user interface of the Trevis tree visualization library.
+Note that we have not yet implemented this.
+We plan to implement it when the need arises to use Trevis as an Eclipse plugin.
+For more information, visit http://sape.inf.usi.ch/trevis
